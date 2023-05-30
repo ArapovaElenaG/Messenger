@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Messenger/static/css/main.2b42da50.css",
+    "main.js": "/Messenger/static/js/main.f80ed492.js",
+    "static/js/787.e94a1ad6.chunk.js": "/Messenger/static/js/787.e94a1ad6.chunk.js",
+    "static/media/1619162304_11-phonoteka_org-p-fon-vatsap-14.jpg": "/Messenger/static/media/1619162304_11-phonoteka_org-p-fon-vatsap-14.b21fdfdf6fcfa518c424.jpg",
+    "static/media/avatar.jpg": "/Messenger/static/media/avatar.dc9a2f94bcbb7caa72fb.jpg",
+    "index.html": "/Messenger/index.html",
+    "static/media/chat-left-text-fill.svg": "/Messenger/static/media/chat-left-text-fill.2f7f9d993a55c16b7975807887a70871.svg",
+    "static/media/Cross.svg": "/Messenger/static/media/Cross.c6d80935b2400abea8d1b8bcbe8d38ee.svg",
+    "static/media/person-fill.svg": "/Messenger/static/media/person-fill.0f597c65f67eac8b83352295b37af1f1.svg",
+    "main.2b42da50.css.map": "/Messenger/static/css/main.2b42da50.css.map",
+    "main.f80ed492.js.map": "/Messenger/static/js/main.f80ed492.js.map",
+    "787.e94a1ad6.chunk.js.map": "/Messenger/static/js/787.e94a1ad6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b42da50.css",
+    "static/js/main.f80ed492.js"
+  ]
+}
