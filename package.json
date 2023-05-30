@@ -2,7 +2,7 @@
   "name": "gren-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ArapovaElenaG.github.io/GreenAPI_production",
+  "homepage": "https://ArapovaElenaG.github.io/Messenger",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
