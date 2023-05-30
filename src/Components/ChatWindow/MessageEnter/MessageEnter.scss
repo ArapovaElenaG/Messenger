@@ -1,0 +1,33 @@
+@import '../../App.scss';
+
+.messageEnter {
+    display: flex;
+    background-color: $header_background;
+    height: 70px;
+    flex-shrink: 0;
+    align-items: center;
+    padding: 0 30px;
+    font-size: 25px;
+    color: $icons;
+    position: fixed;
+    bottom: 0;
+    width: 55%;
+
+    .icon {
+        margin-right: 20px;
+    }
+}
+
+
+
+@media screen and (max-width: 950px) {
+    .messageEnter {
+        width: 100%;
+        position: static;
+        padding: 0;
+
+        .icon:first-of-type {
+            margin-left: 20px;
+        }
+    }
+  }
